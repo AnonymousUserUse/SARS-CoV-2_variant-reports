@@ -15,7 +15,7 @@ Both mutations together currently appear in around 15% of all BQ.1\* globally. T
 Within BQ.1.1, two level 8 lineages have recently been designated but it is too early to say how fast (if at all) they will grow. Both lineages notably lack the S:144- deletion.
 
 - CZ.1 (aka BQ.1.1.1.1) with extra S:F490I has been sequenced in 4 countries, once each: England, South Korea, Austria and Romania and is predicted to be more immune evasive than BQ.1.1
-- CW.1 (aka BQ.1.1.14) with extra S:G446S has been sequenced 8 times in England
+- CW.1 (aka BQ.1.1.14.1) with extra S:G446S has been sequenced 8 times in England
 
 ## XBB still in the race
 
